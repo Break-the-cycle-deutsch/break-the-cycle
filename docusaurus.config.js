@@ -9,7 +9,7 @@ const config = {
   title: 'Break the Cycle',
   tagline: 'Dinosaurs are cool',
   url: 'https://break-the-cycle-deutsch.github.io/break-the-cycle/',
-  baseUrl: '/',
+  baseUrl: '/break-the-cycle/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
