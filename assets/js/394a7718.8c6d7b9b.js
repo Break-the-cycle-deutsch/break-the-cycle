@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbreak_the_cycle=self.webpackChunkbreak_the_cycle||[]).push([[6858],{3529:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/break-the-cycle/blog/tags/hola","allTagsPath":"/break-the-cycle/blog/tags","count":1}')}}]);

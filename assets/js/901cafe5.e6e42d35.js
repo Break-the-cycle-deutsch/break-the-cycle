@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbreak_the_cycle=self.webpackChunkbreak_the_cycle||[]).push([[4726],{60:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/break-the-cycle/blog/tags/docusaurus","allTagsPath":"/break-the-cycle/blog/tags","count":4}')}}]);
