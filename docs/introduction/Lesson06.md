@@ -169,7 +169,8 @@ __** 6-39)  ****If applicable, r**eview these [suggestions](http://sfhelp.org/p
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [wounds](http://sfhelp.org/parent/problem.htm)<br><br>[jealousy](http://sfhelp.org/relate/jealousy.htm) | [anxieties](http://sfhelp.org/gwc/wounds/fears.htm)<br><br>[shyness](http://sfhelp.org/relate/shy.htm) | [dishonesty](http://sfhelp.org/relate/keys/honesty.htm)<br><br>[depression](http://sfhelp.org/grief/depression.htm) | [dislike](http://sfhelp.org/relate/keys/liking.htm)<br><br>[shame](http://sfhelp.org/gwc/wounds/shame.htm) | [distrust](http://sfhelp.org/relate/keys/trust.htm)<br><br>[guilts](http://sfhelp.org/gwc/wounds/guilt.htm) | [hostility](http://sfhelp.org/relate/hostile.htm)<br><br>[resentment](http://sfhelp.org/relate/resent.htm) | [rivalry](http://sfhelp.org/parent/rivalry.htm) |
+| [wounds](http://sfhelp.org/parent/problem.htm)
+[jealousy](http://sfhelp.org/relate/jealousy.htm) | [anxieties](http://sfhelp.org/gwc/wounds/fears.htm)[shyness](http://sfhelp.org/relate/shy.htm) | [dishonesty](http://sfhelp.org/relate/keys/honesty.htm[depression](http://sfhelp.org/grief/depression.htm) | [dislike](http://sfhelp.org/relate/keys/liking.htm)[shame](http://sfhelp.org/gwc/wounds/shame.htm) | [distrust](http://sfhelp.org/relate/keys/trust.htm)[guilts](http://sfhelp.org/gwc/wounds/guilt.htm) | [hostility](http://sfhelp.org/relate/hostile.htm)[resentment](http://sfhelp.org/relate/resent.htm) | [rivalry](http://sfhelp.org/parent/rivalry.htm) |
 
 __** 6-41)**  **Review** these options for resolving family conflict over a [child leaving home](http://sfhelp.org/fam/leave.htm) (Lesson 5)
 
